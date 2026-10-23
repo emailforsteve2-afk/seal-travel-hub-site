@@ -1,6 +1,6 @@
-# SEAL Travel Hub — public site
+﻿# SEAL Travel Hub — public site
 
-Short marketing page for App Store Connect (Marketing URL) and similar listings.
+Short marketing page for App Store Connect (Marketing URL) and similar listings, plus the traveler guide, manual, privacy policy, and terms.
 
 Published with GitHub Pages:
 

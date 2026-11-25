@@ -5,3 +5,7 @@ Short marketing page for App Store Connect (Marketing URL) and similar listings,
 Published with GitHub Pages:
 
 https://emailforsteve2-afk.github.io/seal-travel-hub-site/
+
+Product administrator console (sign-in required, two-factor):
+
+https://emailforsteve2-afk.github.io/seal-travel-hub-site/admin/
